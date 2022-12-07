@@ -1,0 +1,14 @@
+xts-[example]
+
+[inhead]
+
+s001 :: /
+s002 :: /mail
+s003 :: /log
+s004 :: /news
+s005 :: /community
+s006 :: /shopping
+s007 :: /wiki
+
+[outhead]
+실시간으로 변경되는 (검색어 순위, 인기글)영역의 경우 텍스트를 추출하여 attr href. 
